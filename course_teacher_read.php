@@ -29,3 +29,5 @@
 
 	echo "<p><a href=course_teacher_create_input.php>CREATE a new record</a>";
 ?>
+
+hello kisu bolo ... na thak
